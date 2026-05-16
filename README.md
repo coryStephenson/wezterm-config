@@ -18,7 +18,7 @@ cd .config
 mkdir wezterm
 cd wezterm
 cat > wezterm.lua
-# Paste contents of wezterm..lua from this GitHub repo
+# Paste contents of wezterm.lua from this GitHub repo
 # Press Ctrl + D for EOF
 wezterm
 ```
